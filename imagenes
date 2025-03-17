@@ -1,0 +1,9 @@
+echo "# Imagenes_cmm" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer commit" 
+git branch -M main 
+git remote add origin https://github.com/jackhozz/Imagenes_cmm.git
+
+git push -u origin main
+
